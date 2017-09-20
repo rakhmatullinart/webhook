@@ -12,9 +12,9 @@ from aiohttp import web
 import telebot
 
 
-API_TOKEN = '317025779:AAFLih4bH_BjKIm8_giC-wD1geEd8d_tLCI'
+API_TOKEN = ''
 
-WEBHOOK_HOST = '85.143.175.123'
+WEBHOOK_HOST = ''
 WEBHOOK_PORT = 8443  # 443, 80, 88 or 8443 (port need to be 'open')
 WEBHOOK_LISTEN = '0.0.0.0'  # In some VPS you may need to put here the IP addr
 
